@@ -1,6 +1,6 @@
 # ProximityHoverEffect
 
-### Link: Link : https://urls-6d2247eb49f9.herokuapp.com/
+### Link : https://urls-6d2247eb49f9.herokuapp.com/
 
 ### About
 A simple proximity hover effect that follows the cursor and rotates eyeball according to the position of your mouse.
@@ -10,6 +10,7 @@ This is just a fun project to show the proximity hover effect.
 ### Made Using
 - HTML
 - JavaScript
+- P5.js
 - JavaScript trignometric functions
 
 ### Running This Locally
