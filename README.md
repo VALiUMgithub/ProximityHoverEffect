@@ -1,6 +1,6 @@
 # ProximityHoverEffect
 
-### Link : [https://urls-6d2247eb49f9.herokuapp.com/](https://proximity-hover.netlify.app/)
+### Link : https://proximity-hover.netlify.app/
 
 ### About
 A simple proximity hover effect that follows the cursor and rotates eyeball according to the position of your mouse.
